@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0d1117,7b1173,0d1117&height=250&section=header&text=Neural%20Architect%20%26%20Full-Stack%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Architecting%20Intelligence.%20Deploying%20Reality.&descAlignY=65&descAlign=48" draggable="false">
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="600" alt="Person Coding Animation">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0d1117,7b1173,0d1117&height=150&section=header&text=Neural%20Architect%20%26%20Full-Stack%20AI&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Architecting%20Intelligence.%20Deploying%20Reality.&descAlignY=70&descAlign=48" draggable="false">
 </div>
 
 <div align="center">
@@ -60,7 +66,6 @@
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatBhatnagar29&theme=tokyonight">
 </div>
-
 
 <br><br>
 
