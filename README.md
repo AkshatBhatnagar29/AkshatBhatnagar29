@@ -49,16 +49,16 @@
 <div align="center">
   <h2 align="center">📊 Neural Network Activity</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatBhatnagar29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatBhatnagar29&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatBhatnagar29&theme=tokyonight&hide_border=true" alt="streak graph" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatBhatnagar29&theme=tokyonight">
 </div>
 
 
