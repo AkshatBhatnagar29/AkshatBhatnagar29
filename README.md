@@ -220,9 +220,6 @@ I primarily solve problems in **C++**.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=AkshatBhatnagar29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -251,7 +248,7 @@ I'm interested in opportunities involving:
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/akshat-bhatnagar-776b7b284/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
