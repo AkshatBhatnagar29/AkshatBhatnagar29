@@ -7,7 +7,7 @@
 I build **AI-powered applications and intelligent backend systems** — from ML forecasting and computer vision to LLM agents, RAG pipelines, and production-oriented APIs.
 
 <p>
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/akshat-bhatnagar-776b7b284/">LinkedIn</a> •
   <a href="https://github.com/AkshatBhatnagar29">GitHub</a>
 </p>
 
