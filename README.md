@@ -216,21 +216,18 @@ I primarily solve problems in **C++**.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshatBhatnagar29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatBhatnagar29&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<br><br>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatBhatnagar29&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=AkshatBhatnagar29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
 
 # 🎯 My Development Philosophy
 
